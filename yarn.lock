@@ -827,7 +827,6 @@ __metadata:
   dependencies:
     "@lerna-lite/cli": "npm:^3.11.0"
     "@lerna-lite/version": "npm:^3.11.0"
-    "@types/chai": "npm:~4.3.11"
     "@types/enzyme": "npm:~3.10.18"
     "@types/enzyme-adapter-react-16": "npm:~1.0.9"
     "@types/mocha": "npm:~10.0.6"
@@ -3298,13 +3297,6 @@ __metadata:
   dependencies:
     "@types/deep-eql": "npm:*"
   checksum: 49282bf0e8246800ebb36f17256f97bd3a8c4fb31f92ad3c0eaa7623518d7e87f1eaad4ad206960fcaf7175854bdff4cb167e4fe96811e0081b4ada83dd533ec
-  languageName: node
-  linkType: hard
-
-"@types/chai@npm:~4.3.11":
-  version: 4.3.11
-  resolution: "@types/chai@npm:4.3.11"
-  checksum: 0c216ac4a19bfbf8318bb104d32e50704ee2ffc4b538b976c4326e6638fee121462402caa570662227a2a218810388aadb14bdbd3d3d474ec300b00695db448a
   languageName: node
   linkType: hard
 
